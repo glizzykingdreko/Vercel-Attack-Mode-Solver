@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@babel/generator": "^7.23.6",
+    "@babel/parser": "^7.24.0",
+    "@babel/traverse": "^7.24.0",
+    "@babel/types": "^7.24.0",
+    "crypto": "^1.0.1"
+  }
+}
